@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, Thank you for visiting my page :) <br> my name is Sebastian.<br>I'm  passionate about full stack engineering and continously learning and improving my skills on the same<br>Im looking forward to collaborate on projects in Java, Python & JS<br>
+Hi, Thank you for visiting my page :) <br> My name is Sebastian.<br>I'm  passionate about full stack engineering and continously learning and improving my skills on the same<br>Im looking forward to collaborate on projects in Java, Python & JS<br>
 
 
 ## 🌐 Socials:
